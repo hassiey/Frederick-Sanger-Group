@@ -1,4 +1,4 @@
-ko# Introduction to Bioinformatics 
+# Introduction to Bioinformatics 
 Bioinformatics as a combined discipline of fields including computer science, mathematics and biology. It understanding is used to analyze, visualize and interpret of biological data with the use of computerized tools and step to understand and drive out significant informations.
  Bioinformatics introduce students to the fundamental principles and techniques such as genomics, proteomics, structural bioinformatics, etc.
  Bioinformatics aims to identify patterns and trends within large data, development of computerized models and development of algorithm through analysation and interpretation of data.
